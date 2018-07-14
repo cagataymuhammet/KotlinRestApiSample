@@ -7,7 +7,7 @@ Android Stuido 3.1.3 ve Google Play Services 28.0.0 kullanılmıştır.
 Api olarak  [JSONPlaceholder](https://jsonplaceholder.typicode.com/) kullanılmıştır.
 
 
-<img src="https://github.com/cagataymuhammet/KotlinRestApiSample/blob/master/sh.png"/>
+<img src="https://github.com/cagataymuhammet/KotlinRestApiSample/blob/master/screenshot.png"/>
 
 
 # dependencies
