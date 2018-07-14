@@ -42,7 +42,7 @@ dependencies {
 
 ```
 
-# ServiceApiClient.java
+# ServiceApiClient.kt
 ```kotlin
 
 interface ServiceApiClient {
@@ -79,7 +79,7 @@ interface ServiceApiClient {
 ```
 
 
-# UserModel.class
+# UserModel.kt
 
 ```kotlin
 data class UserModel(
@@ -120,7 +120,7 @@ data class UserModel(
 
 
 
-# UserAdapter
+# UserAdapter.kt
 ```kotlin
 
 
